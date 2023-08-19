@@ -4,9 +4,9 @@
 
 
 ## 💟 Preview
-  <div style="display: flex; justify-content: center; margin: 30">
-   <img src="Screenshot_2.png" width="400" height="200" alt="" >
-  </div>
+ 
+   <img src="Screenshot_2.png" width="500" height="auto" alt="" >
+ 
 
 ## 💻 Tecnologías Utilizadas 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
