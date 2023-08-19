@@ -1,6 +1,6 @@
 ## <h1 align="center">⚡Expense-Tracker</h1> 
 <p align="center">Mi primera aplicación con React, NPM, Vite</p> 
-<p align="center">Expense Tracker que te ayuda a visualizar fácilmente un balance de Ingresos y Gastos</p>
+<p align="center">Expense Tracker te ayuda a visualizar fácilmente un balance de Ingresos y Gastos</p>
 
 
 ## 💟 Preview
@@ -20,7 +20,7 @@
 Pronto estaré realizando el deploy del mismo y proporcionando acceso a verlo e interactuar con el proyecto
 
 ## 🛠 Cómo usar
-Cuando se ingresa a la página se pueden visualizar a la izquierda un formulario con un input para lo ingresos y gastos (Es el mismo inpu para los dos, el sistema los diferencia dependiendo de si ingresamos los dígitos como enteros o decimales, ya sea positivos para los ingrsesos y negativos para los gastos) y un input de descripción del mismo. Una vez ingresados los datos, el botón de Agregar Transacción permite no sólo agregarlo a la lista de la derecha , sino poder visualizar en un gráfico, rápidamente, cuánto disponemos de nuestros ingresos, cuánto hemos gastado y el detalle de los mismos.  
+Cuando se ingresa a la página se pueden visualizar a la izquierda un formulario con un input para los ingresos y gastos (es el mismo input para los dos, el sistema los diferencia dependiendo de si ingresamos los dígitos como enteros o decimales, ya sea positivos para los ingresos y negativos para los gastos) y un input de descripción del mismo. Una vez ingresados los datos, el botón de Agregar Transacción permite no sólo agregarlo a la lista de la derecha , sino poder visualizar en un gráfico, rápidamente, cuánto disponemos de nuestros ingresos, cuánto hemos gastado y el detalle de los mismos.  
 
 ## ⚙ Recursos Utilizados
 <a href="https://www.youtube.com/watch?v=zN6xXtHww54" target="_blank">Curso de Fazt</a>
